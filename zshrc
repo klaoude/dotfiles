@@ -1,0 +1,1 @@
+/home/klaoude/.yadr/zsh/prezto/runcoms/zshrc
