@@ -1,2 +1,2 @@
-require("klaoude.core")
-require("klaoude.lazy")
+local klaoude = require("klaoude")
+klaoude.bootstrap()
