@@ -5,6 +5,7 @@ return {
       require("monokai-pro").setup()
     end
   },
+  { "ThePrimeagen/vim-be-good" },
   { "nvim-neotest/nvim-nio" },
   {
     "rcarriga/nvim-dap-ui",

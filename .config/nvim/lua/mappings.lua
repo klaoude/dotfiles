@@ -12,4 +12,12 @@ map("n", "<leader>dr", "<cmd>DapContinue<CR>", {desc = "Start or continue the de
 
 map("n", "<C-b>", "<cmd>NvimTreeToggle<CR>", { desc = "nvimtree toggle window" })
 
+map("n", "<C-d>", "<C-d>zz", {desc = "Go down by half a page"})
+map("n", "<C-u>", "<C-u>zz", {desc = "Go up by half a page"})
+
+map("n", "n", "nzzzv", {desc = "Next and center line"})
+map("n", "N", "Nzzzv", {desc = "Prev and center line"})
+
+
+
 -- map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")
