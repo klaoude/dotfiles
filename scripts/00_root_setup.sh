@@ -6,7 +6,7 @@ fi
 
 passwd
 pacman -Syu
-pacman -S git base-devel sudo vi vim stow
+pacman -S git base-devel sudo vi vim stow openssh
 
 echo "Username: "
 read username
