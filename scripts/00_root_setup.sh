@@ -6,7 +6,7 @@ fi
 
 passwd
 pacman -Syu
-pacman -S git base-devel sudo vi vim stow openssh
+pacman -S git base-devel sudo vi vim stow openssh unzip
 
 echo "Username: "
 read username

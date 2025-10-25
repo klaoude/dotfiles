@@ -15,6 +15,8 @@ source $ZSH/oh-my-zsh.sh
 
 export EDITOR="nvim"
 
+alias nvim="uv run nvim"
+
 # Compilation flags
 # export ARCHFLAGS="-arch $(uname -m)"
 
