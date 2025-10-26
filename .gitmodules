@@ -1,0 +1,15 @@
+[submodule "tmux-catppuccin"]
+  path = .config/tmux/plugins/catppuccin/tmux
+  url = https://github.com/catppuccin/tmux.git
+
+[submodule "zsh-fast-syntax-highlighting"]
+  path = .oh-my-zsh/custom/plugins/fast-syntax-highlighting
+  url = https://github.com/zdharma-continuum/fast-syntax-highlighting.git
+
+[submodule "zsh-autosuggestions"]
+  path = .oh-my-zsh/custom/plugins/zsh-autosuggestions
+  url = https://github.com/zsh-users/zsh-autosuggestions
+
+[submodule "tmux-tpm"]
+	path = .tmux/plugins/tpm
+	url = https://github.com/tmux-plugins/tpm

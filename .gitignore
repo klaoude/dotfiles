@@ -1,0 +1,4 @@
+.config/tmux/plugins/tmux-battery
+.config/tmux/plugins/tmux-cpu
+.config/tmux/plugins/tmux-sensible
+.config/tmux/plugins/tpm
