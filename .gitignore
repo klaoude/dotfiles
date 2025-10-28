@@ -1,4 +1,7 @@
-.config/tmux/plugins/tmux-battery
-.config/tmux/plugins/tmux-cpu
-.config/tmux/plugins/tmux-sensible
-.config/tmux/plugins/tpm
+.config/
+
+!.config/nvim/
+!.config/tmux/plugins/catppuccin
+!.config/tmux/tmux.conf
+!.config/starship.toml
+.gitconfig

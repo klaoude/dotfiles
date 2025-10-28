@@ -25,8 +25,10 @@ ZSH_AUTOSUGGEST_USE_ASYNC=1
 
 # User configuration
 export EDITOR="nvim"
-
-alias nvim="uv run nvim"
+alias uvr="uv run"
+alias uve="uvr --env-file .env"
+alias nvim="uvr nvim"
+alias evim="uve nvim"
 
 # EZA Aliases
 alias ls='eza --color=always --group-directories-first --icons'
